@@ -1,2 +1,2 @@
 # webscrappingsAnatel
-Webscra´´ing em pythons que baixa e trata os dados vindos da ANATEL
+Webscrappings para download e tratamento de dados disponibilizados pela ANATEL https://www.gov.br/anatel/pt-br
